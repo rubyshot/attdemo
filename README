@@ -1,2 +1,5 @@
-git submodule add git://github.com/facebook/three20.giT
+git submodule add git://github.com/facebook/three20.git
+
+
+
 
